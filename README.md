@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm GAURAV THAKUR  
 
-<!--
-**Gaurav-AIML24/Gaurav-AIML24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Student | Aspiring AI & Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about **technology, problem-solving, and building real-world projects**.  
+📚 Currently learning **Python, Machine Learning & Web Development**.  
+🛠 Turning ideas into code and improving **one commit at a time**.
+
+---
+
+## 🧑‍💻 What I’m Doing
+- 🌱 Learning **AI, Data Science & Cloud Computing**
+- 🏗 Working on **college projects & hackathon challenges**
+- 🔍 Exploring **Flask, ML models & automation**
+- 🎯 Goal: Become a **skilled AI / Software Engineer**
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, C, C++
+- **Web:** HTML, CSS, JavaScript
+- **AI / ML:** NumPy, Pandas, Matplotlib, Scikit-learn
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📂 Featured Projects
+- 🔹 **Unified Government Services Portal**
+- 🔹 **Machine Learning Mini Projects**
+- 🔹 **Flask Web Applications**
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-AIML24&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-AIML24&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Connect
+- 💼 LinkedIn: *(https://www.linkedin.com/in/gaurav-thakur-730291382)*
+- 📧 Email: *(Gauravthakur312006@gmail.com)*
+
+⭐ *Always curious. Always learning. Always building.*
