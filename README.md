@@ -27,9 +27,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 **Unified Government Services Portal**
-- 🔹 **Machine Learning Mini Projects**
-- 🔹 **Flask Web Applications**
+- 🔹 **SOON**
 
 ---
 
