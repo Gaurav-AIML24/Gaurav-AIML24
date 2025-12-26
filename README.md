@@ -1,45 +1,58 @@
-# 👋 Hi, I'm GAURAV THAKUR  
+<h1 align="center">Hey 👋, I'm FREEFIRE DATA</h1>
+<h3 align="center">🚀 Developer | 🤖 AI & ML Enthusiast | 🌐 Web Builder</h3>
 
-### 🚀 Student | Aspiring AI & Software Engineer  
-
----
-
-💡 Passionate about **technology, problem-solving, and building real-world projects**.  
-📚 Currently learning **Python, Machine Learning & Web Development**.  
-🛠 Turning ideas into code and improving **one commit at a time**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav-AIML24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🧑‍💻 What I’m Doing
-- 🌱 Learning **AI, Data Science & Cloud Computing**
-- 🏗 Working on **college projects & hackathon challenges**
-- 🔍 Exploring **Flask, ML models & automation**
-- 🎯 Goal: Become a **skilled AI / Software Engineer**
+## 🧠 About Me  
+- 🎓 Tech learner with strong interest in **AI, ML & Web Development**
+- 💻 Love building **real-world, problem-solving projects**
+- 🧪 Exploring **Machine Learning, CV, NLP & Automation**
+- 🏆 Focused on **unique + eye-catching GitHub projects**
+- ⚡ Fun fact: *I turn coffee ☕ into code 💻*
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** Python, C, C++
-- **Web:** HTML, CSS, JavaScript
-- **AI / ML:** NumPy, Pandas, Matplotlib, Scikit-learn
-- **Tools:** Git, GitHub, VS Code
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Programming & Web
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-black?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-black?style=for-the-badge)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
-## 📂 Featured Projects
-- 🔹 **SOON**
+## 🚀 Featured Projects  
+🔥 **ExamGuard AI** – Smart Online Exam Proctoring System  
+🔥 **ML-based Detection Systems**  
+🔥 **Government Services Unified Portal**  
+🔥 **Automation & AI Utility Tools**
+
+👉 *Check my repositories for full demos & code.*
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-AIML24&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-AIML24&layout=compact&theme=tokyonight)
+## 🌐 Connect With Me  
+- 💼 GitHub: [FREEFIRE DATA](https://github.com/Gaurav-AIML24)
+- 📧 Email: *Gauravthakur312006@gmail.com*
 
 ---
 
-## 🤝 Let’s Connect
-- 💼 LinkedIn: *(https://www.linkedin.com/in/gaurav-thakur-730291382)*
-- 📧 Email: *(Gauravthakur312006@gmail.com)*
-
-⭐ *Always curious. Always learning. Always building.*
+<p align="center">
+  <b>✨ "Build. Break. Learn. Repeat." ✨</b>
+</p>
