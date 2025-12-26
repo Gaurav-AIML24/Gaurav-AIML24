@@ -38,10 +38,7 @@
 ---
 
 ## 🚀 Featured Projects  
-🔥 **ExamGuard AI** – Smart Online Exam Proctoring System  
-🔥 **ML-based Detection Systems**  
-🔥 **Government Services Unified Portal**  
-🔥 **Automation & AI Utility Tools**
+🔥 **SOON**
 
 👉 *Check my repositories for full demos & code.*
 
