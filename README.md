@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm FREEFIRE DATA</h1>
+<h1 align="center">Hey 👋, I'm GAURAV THAKUR</h1>
 <h3 align="center">🚀 Developer | 🤖 AI & ML Enthusiast | 🌐 Web Builder</h3>
 
 <p align="center">
