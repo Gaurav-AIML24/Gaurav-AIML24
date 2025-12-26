@@ -43,54 +43,40 @@
 👉 *Check my repositories for full demos & code.*
 
 ---
-
 ## 🎓 Certifications & Credentials  
 
-### 🟠 Oracle Cloud Infrastructure – Certified Generative AI Professional (2025)
-
 <p align="center">
-  <img src="https://github.com/Gaurav-AIML24/certifications/orcale/Oracle_Generative_AI_Professional_2025.jpg"
+  <img src="https://github.com/Gaurav-AIML24/Certificates/blob/main/Orcale/Oracle_Generative_AI_Professional_2025.jpg"
        alt="Oracle Generative AI Certificate"
-       width="800"/>
+       width="420"/>
 </p>
 
-- 🏢 **Issued By:** Oracle University  
-- 📅 **Year:** 2025  
-- 🧠 **Domain:** Generative AI • Cloud Computing  
-- 🔗 **Certificate:**  
-  👉 [View / Download (PDF)](https://github.com/Gaurav-AIML24/certifications/orcale/Oracle_Generative_AI_Professional_2025.pdf)
+<p align="center">
+  🟠 <b>Oracle Cloud Infrastructure – Certified Generative AI Professional (2025)</b><br/>
+  Issued by Oracle University<br/>
+  <a href="https://github.com/Gaurav-AIML24/Certificates/blob/main/Orcale/Oracle_Generative_AI_Professional_2025.jpg">View Certificate</a>
+</p>
 
 ---
 
-### 🔵 Microsoft Certified: Azure AI Fundamentals (2025)
-
 <p align="center">
-  <img src="https://github.com/Gaurav-AIML24/certifications/Azure/AZURE_AI_FUNDAMENTALS_2025.jpg"
+  <img src="https://github.com/Gaurav-AIML24/Certificates/blob/main/Azure/AZURE_AI_FUNDAMENTALS_2025.jpg"
        alt="Azure AI Fundamentals Certificate"
-       width="800"/>
+       width="380"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Gaurav-AIML24/Certificates/blob/main/Azure/AZURE_FUNDAMENTALS_2025.jpg"
+       alt="Azure Fundamentals Certificate"
+       width="380"/>
 </p>
-
-- 🏢 **Issued By:** Microsoft  
-- 📅 **Year:** 2025  
-- 🧠 **Domain:** Artificial Intelligence  
-- 🔗 **Certificate:**  
-  👉 [View / Download](https://github.com/Gaurav-AIML24/certifications/Azure/AZURE_AI_FUNDAMENTALS_2025.jpg)
-
----
-
-### 🔵 Microsoft Certified: Azure Fundamentals (2025)
 
 <p align="center">
-  <img src="https://github.com/Gaurav-AIML24/certifications/Azure/AZURE_FUNDAMENTALS_2025.jpg"
-       alt="Azure Fundamentals Certificate"
-       width="800"/>
+  🔵 <b>Azure AI Fundamentals (2025)</b> &nbsp; | &nbsp;
+  🔵 <b>Azure Fundamentals (2025)</b><br/>
+  Issued by Microsoft<br/>
+  <a href="https://github.com/Gaurav-AIML24/Certificates/blob/main/Azure/AZURE_AI_FUNDAMENTALS_2025.jpg">View</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Gaurav-AIML24/Certificates/blob/main/Azure/AZURE_FUNDAMENTALS_2025.jpg">View</a>
 </p>
-
-- 🏢 **Issued By:** Microsoft  
-- 📅 **Year:** 2025  
-- ☁️ **Domain:** Cloud Computing  
-- 🔗 **Certificate:**  
-  👉 [View / Download](https://github.com/Gaurav-AIML24/certifications/Azure/AZURE_FUNDAMENTALS_2025.jpg)
 
 ---
 
